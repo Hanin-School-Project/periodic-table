@@ -4,9 +4,10 @@
 }
 
 .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 10px;
+  height: 5px;
+  border: 5px outset red;
+  background-color: lightblue;
 }
 body {
   display: flex;
